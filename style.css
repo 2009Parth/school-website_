@@ -1,0 +1,37 @@
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+iframe
+{
+    width: 100em;
+    height: 40em;
+}
+.travel_mainDiv
+{
+    border: 1px  solid  lightgray;
+}
+.travel_mainDiv img
+{
+ width: 100%;
+}
+.travel_mainDiv  h5 ,  .travel_mainDiv p
+{
+margin: 20px;
+}
+.achivement_head
+{
+    font: 18px;
+    padding: 6px 22px;
+    border-radius: 10px;
+}
+.achivements-text span
+{
+    color: orange;
+}
+.achivement_head i
+{
+    float: right;
+}
